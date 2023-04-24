@@ -403,7 +403,7 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
     Nexuslauncher \
     lawnchair \
     Settings \
-    SystemUIGoogle
+    SystemUI
 
 # Protobuf
 PRODUCT_PACKAGES += \
